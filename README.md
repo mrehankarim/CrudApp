@@ -1,3 +1,5 @@
+##Crud App
+It's a beginner friendly project in React.js. That perfroms crud operations on data entered by user.
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
