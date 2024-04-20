@@ -1,4 +1,4 @@
-##Crud App
+## Crud App
 It's a beginner friendly project in React.js. That perfroms crud operations on data entered by user.
 # React + Vite
 
